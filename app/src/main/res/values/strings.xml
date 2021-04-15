@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2020 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">DeepFlow</string>
+    <string name="affirmationHead1">MONDAY Persistent application can help you achieve things you would otherwise have not thought possible.</string>
+    <string name="affirmationHead2">MONDAY I believe in myself.</string>
+    <string name="affirmationHead3">TUESDAY Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmationHead4">TUESDAY Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmationHead5">WEDNESDAY I have so much to be grateful for.</string>
+    <string name="affirmationHead6">WEDNESDAY Good things are always coming into my life.</string>
+    <string name="affirmationHead7">THURSDAY New opportunities await me at every turn.</string>
+    <string name="affirmationHead8">FRIDAY I have the courage to follow my heart.</string>
+    <string name="affirmationHead9">SATURDAY Things will unfold at precisely the right time.</string>
+    <string name="affirmationHead10">SUNDAY I will be present in all the moments that this day brings.</string>
+    <string name="affirmationBody1">You do not need to do hours and hours of work every day. You just need to make sure that you are giving the power of compounding a chance to work for you. </string>
+    <string name="affirmationBody2">This will be the body2</string>
+    <string name="affirmationBody3">This will be the body3</string>
+    <string name="affirmationBody4">This will be the body4</string>
+    <string name="affirmationBody5">This will be the body5</string>
+    <string name="affirmationBody6">This will be the body6</string>
+    <string name="affirmationBody7">This will be the body7</string>
+    <string name="affirmationBody8">This will be the body8</string>
+    <string name="affirmationBody9">This will be the body9</string>
+    <string name="affirmationBody10">This will be the body10</string>
+    <string name="affirmationSource1">Source: Atomic habits</string>
+    <string name="affirmationSource2">Source 2</string>
+    <string name="affirmationSource3">Source 3</string>
+    <string name="affirmationSource4">Source 4</string>
+    <string name="affirmationSource5">Source 5</string>
+    <string name="affirmationSource6">Source 6</string>
+    <string name="affirmationSource7">Source 7</string>
+    <string name="affirmationSource8">Source 8</string>
+    <string name="affirmationSource9">Source 9</string>
+    <string name="affirmationSource10">Source 10</string>
+</resources>
